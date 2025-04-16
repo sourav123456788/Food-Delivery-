@@ -1,4 +1,4 @@
-import { StoreContext } from '../../context/storeContext'
+import { StoreContext } from '../../context/StoreContext'
 import './PlaceOrder.css'
 import React, { useContext } from 'react'
 
