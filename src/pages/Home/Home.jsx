@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Home.css'
-import Header from '../../components/Header/Header.Jsx'
+import Header from '../../components/Header/Header.jsx'
 import ExploreMenu from '../../components/ExplorMenu/ExploreMenu'
 import FoodDisplay from '../../components/FoodDisplay/FoodDisplay'
 import AppDownload from '../../components/AppDownload/AppDownload'
