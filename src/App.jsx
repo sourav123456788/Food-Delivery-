@@ -4,7 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder'
 import Home from './pages/Home/Home'
 import Cart from './pages/Cart/Cart'
-import Header from './components/Header/Header.Jsx'
+// import Header from './components/Header/Header.Jsx'
 import Footer from './components/footer/Footer'
 import LoginPopUp from './components/LoginPopUp/LoginPopUp'
 
